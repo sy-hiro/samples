@@ -37,7 +37,7 @@ public class HashSetSample {
         }
         
         // 北海道を削除
-//        set.remove("北海道");
+        set.remove("北海道");
         
         // 全ての要素を出力
         Iterator<String> iterator = set.iterator();
